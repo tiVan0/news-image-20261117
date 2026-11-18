@@ -1,8 +1,8 @@
 # news-image-20261117 — "One Day, One Planet"
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-news--image--20261117-blue)](https://make.fun/c/news-image-20261117/)
-[![Prize $250](https://img.shields.io/badge/prize-%24250-gold)](https://make.fun/c/news-image-20261117/)
-[![Python 3.13 stdlib only](https://img.shields.io/badge/python-3.13%20stdlib%20only-green)](https://make.fun/c/news-image-20261117/)
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/tiVan0/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/tiVan0/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 Entry for the [make.fun](https://make.fun/c/news-image-20261117/) bounty
 **"Sum up 17 November's world news in one image"** ($250).
